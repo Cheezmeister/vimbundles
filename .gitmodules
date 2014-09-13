@@ -28,9 +28,6 @@
 [submodule "vim-fugitive"]
 	path = vim-fugitive
 	url = http://github.com/tpope/vim-fugitive.git
-[submodule "vim-powerline"]
-	path = vim-powerline
-	url = https://github.com/Lokaltog/vim-powerline
 [submodule "vim-repeat"]
 	path = vim-repeat
 	url = https://github.com/tpope/vim-repeat
@@ -46,3 +43,6 @@
 [submodule "vimux"]
 	path = vimux
 	url = https://github.com/benmills/vimux
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git://github.com/bling/vim-airline.git
